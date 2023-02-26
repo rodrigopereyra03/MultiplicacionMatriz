@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677420308 source:c:\users\rodri\documents\rodrigo\rodrigo\facultad\programacion 2022\matrizparaelfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
